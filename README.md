@@ -34,3 +34,15 @@ Pada pertemuan kedua, praktikum berfokus pada pembuatan form interaktif pada hal
 
 **Kesimpulan Praktikum:**  
 Pada pertemuan ketiga, praktikum berfokus pada pembuatan halaman katalog "Daftar Produk UMKM" yang komplek. Praktikan belajar mengimplementasikan tata letak grid dan daftar (`LazyVerticalGrid` & `LazyRow`), filter kategori produk (Makanan, Minuman, Kerajinan), serta menampilkan kartu produk lengkap dengan gambar aset lokal, label kategori, nama produk, dan harga secara terstruktur.
+
+---
+
+## 📝 Tugas Pertemuan 4
+**Tanggal**: Selasa, 22 September 2026
+
+![Tugas Pertemuan 4 - Form Hubungi Kami](SS_Pertemuan4.1.jpeg)
+![Tugas Pertemuan 4 - Detail Produk](SS_Pertemuan4.2.jpeg)
+
+**Kesimpulan Praktikum:**  
+Pada pertemuan keempat, praktikum berfokus pada Recomposition, UI Lifecycle, pengelolaan State, dan Jetpack Navigation. Praktikan belajar menerapkan State Hoisting & Unidirectional Data Flow (UDF) untuk memisahkan Stateful dan Stateless Composable, validasi form interaktif (Dropdown, Checkbox, PhotoPicker & Permission), simulasi proses asinkronus menggunakan `LaunchedEffect`, serta navigasi antarlayar (Daftar Produk, Detail Produk, dan Hubungi Kami).
+
