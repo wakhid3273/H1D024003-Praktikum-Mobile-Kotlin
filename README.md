@@ -46,3 +46,15 @@ Pada pertemuan ketiga, praktikum berfokus pada pembuatan halaman katalog "Daftar
 **Kesimpulan Praktikum:**  
 Pada pertemuan keempat, praktikum berfokus pada Recomposition, UI Lifecycle, pengelolaan State, dan Jetpack Navigation. Praktikan belajar menerapkan State Hoisting & Unidirectional Data Flow (UDF) untuk memisahkan Stateful dan Stateless Composable, validasi form interaktif (Dropdown, Checkbox, PhotoPicker & Permission), simulasi proses asinkronus menggunakan `LaunchedEffect`, serta navigasi antarlayar (Daftar Produk, Detail Produk, dan Hubungi Kami).
 
+---
+
+## 📝 Tugas Pertemuan 5
+**Tanggal**: Selasa, 29 September 2026
+
+![Tugas Pertemuan 5 - Daftar Produk](SS_Pertemuan5.1.jpeg)
+![Tugas Pertemuan 5 - Detail Produk](SS_Pertemuan5.2.jpeg)
+
+**Kesimpulan Praktikum:**  
+Pada pertemuan kelima, praktikum berfokus pada Networking & Architecture menggunakan Retrofit, Coil, dan pola arsitektur MVVM (Model-View-ViewModel). Praktikan belajar mengambil data JSON dari REST API server secara asinkron menggunakan Retrofit & Gson, mengelola status tampilan UI (`Loading`, `Success`, `Error`) dengan `StateFlow` & `ProductViewModel`, serta memuat gambar produk dari internet secara dinamis menggunakan library Coil (`AsyncImage`).
+
+

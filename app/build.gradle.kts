@@ -50,6 +50,12 @@ dependencies {
     implementation(libs.androidx.navigation.runtime.ktx)
     implementation(libs.androidx.navigation.compose)
 
+    // Retrofit & Coil
+    implementation(libs.retrofit)
+    implementation(libs.retrofit.converter.gson)
+    implementation(libs.coil.compose)
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
+
     // Testing
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.compose.bom)
